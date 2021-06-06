@@ -26,4 +26,18 @@ Transformación de los datos para llevarlos a la estructura necesaria para alime
 
 ### Anáisis Cuantitativo y Numérico de los Datos
 En esta etapa realicé:
-- Una matriz de correlación para entender mejor la relación entre los atributos.
+- Una matriz de correlación con mapa de calor para entender mejor la relación entre los atributos.
+- Histogramas usando Scatter Matrix
+- Una visualización llevando el dataset a dos dimensiones utilizando PCA
+
+### Modelos de Aprendizaje
+Antes de la creación de los modelos de aprendizaje en sí, realicé:
+- Partición del dataset en Training, Validation y Test.
+- Histograma para ver la distribución de cada partición (comprobar que estaban estratificadas)
+- Normalización de los datos para llevarlos al intervalo [0,1] usando MinMaxScaler
+Luego, con respecto a los modelos entrené:
+- REGRESOR LINEAL PURO
+- REGRESOR RIDGE
+- REGRESOR LASSO
+- REGRESOR RANDOM FOREST
+A todos los modelos los evalué usando RMSE (root mean square error) 
