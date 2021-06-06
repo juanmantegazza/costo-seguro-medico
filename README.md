@@ -40,4 +40,9 @@ Luego, con respecto a los modelos entrené:
 - REGRESOR RIDGE
 - REGRESOR LASSO
 - REGRESOR RANDOM FOREST
-A todos los modelos los evalué usando RMSE (root mean square error) 
+A todos los modelos los evalué usando RMSE (root mean square error). Usé el set de validación para tunear los hiperparámetros y quedarme con la mejor opción de cada modelo.
+Finalmente, evalué a los modelos usando el set de test, los comparé y di mis conclusiones. 
+
+Gracias por haber llegado hasta aca!
+
+Saludos, Juan.
