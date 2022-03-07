@@ -93,4 +93,4 @@ Then, with respect to the models I trained:
 I evaluated all the models using RMSE (root mean square error). I used the validation set to tune the hyperparameters and get the best option from each model. Finally, I evaluated the models using the test set, compared them and gave my conclusions.
 Thank you for coming this far!
 
-Greetings, John.
+Greetings, Juan.
