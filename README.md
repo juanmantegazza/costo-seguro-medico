@@ -48,6 +48,8 @@ Gracias por haber llegado hasta aca!
 Saludos, Juan.
 
 
+# Medical Insurance Cost
+
 Welcome!
 
 In this project, what I did was use the "Medical Cost Personal" dataset, which you can see at https://www.kaggle.com/mirichoi0218/insurance, to create models that allow predicting the cost of medical insurance to be charged to a person.
